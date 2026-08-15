@@ -1,7 +1,7 @@
 # 🌸Hey there, I’m so glad you’re here!
---
 
-Welcome to my little corner of GitHub!
+
+Welcome to my little corner of GitHub!  
 This is where I turn curiosity into projects, messy data into cleaner answers, and everything I learn into something I can build.
 
 
