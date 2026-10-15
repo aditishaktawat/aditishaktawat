@@ -11,23 +11,23 @@ I’m enjoy learning, solving real-world problems with data, and turning messy d
 
 Here, you'll find:
 
-- 📊 **Data analytics & Power BI projects** — dashboards, DAX, data modeling, and storytelling
-- 🐍 **Python projects** — data cleaning, analysis, and exploration
-- 🧮 **SQL projects** — querying, analysis, and business problem-solving
-- 📚 **My learning journey** — experiments, practice projects, and things I'm figuring out along the way
+- **Data analytics & Power BI projects** — dashboards, DAX, data modeling, and storytelling
+- **Python projects** — data cleaning, analysis, and exploration
+- **SQL projects** — querying, analysis, and business problem-solving
+- **My learning journey** — experiments, practice projects, and things I'm figuring out along the way
 
 I’m still learning, experimenting, and improving — so this GitHub is a work in progress, just like I am.
 
-### 🛠️ Tools I work with
+### Tools I work with-
 
 **SQL · Power BI · Python · Excel · PostgreSQL · Git/GitHub**
 
-### 📌 Featured Projects
+### Featured Projects-
 
 Check out some of my recent work in the pinned repositories below.
 
-### 🌱 Currently learning
+### Currently learning-
 
 Deepening my skills in **data modeling, DAX, analytics, and building end-to-end data projects.**
 
-📫 Open to Data Analyst opportunities and meaningful analytics projects.
+Open to Data Analyst opportunities and meaningful analytics projects.
